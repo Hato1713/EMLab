@@ -1,5 +1,5 @@
-Our project of electromagnetism course!
-An interactive and integrated platform for EM dynamics simulation.
+Our project of electromagnetism course!\n
+An interactive and integrated platform for EM dynamics simulation.\n
 Function 'help' is not fully completed, but the usage of functions and commands can be found in docstrings of functions in 'EMfuncs'.
 
 The 22nd Update, finally edited in 2024/12/16
